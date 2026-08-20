@@ -1,0 +1,9 @@
+variable,description,source
+BSI_100m,Bare Soil Index within 100 m buffer,Sentinel-2
+NDMI_100m,Normalized Difference Moisture Index within 100 m buffer,Sentinel-2
+WGW_100m,Water-grassland-wetland proportion,CLCD
+Anthro_300m,Anthropogenic land-cover proportion,CLCD
+Grassland_600m,Grassland proportion,CLCD
+Grassland_1200m,Grassland proportion,CLCD
+Cropland_slope_600m,Cropland temporal trend,CLCD
+Grassland_slope_1200m,Grassland temporal trend,CLCD
